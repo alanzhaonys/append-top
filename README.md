@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/append-top.svg)](https://badge.fury.io/js/append-top)
+
 # Global Install
 
 Run `yarn global add append-top`
